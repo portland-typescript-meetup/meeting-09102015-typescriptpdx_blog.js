@@ -1,3 +1,6 @@
+# This repo was created for a presentation at the Portland TypeScript Meetup on September 10, 2015
+Andrew's [Slide Deck](http://cl.ly/401Q053E2T3Q) is eye-opening and inspiring.
+
 # typescriptpdx_blog
 
 A simple module that gets the latest metadata from the blog posts on the TypeScriptPDX blog
